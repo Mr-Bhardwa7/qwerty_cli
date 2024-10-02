@@ -1,5 +1,5 @@
 name: qwerty_cli
-description: "A new Flutter plugin project."
+description: "A CLI to create a new Flutter project using Qwery framework boilerplates."
 version: 0.0.1
 homepage:
 
